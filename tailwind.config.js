@@ -11,7 +11,8 @@ module.exports = {
           'large': '1130px',
           'laptop': '995px',
           'tablet': '880px',
-          '780': '780px'
+          '782': '782px',
+          '768': '768px'
         },
         fontSize: {
           header: ['13px', '18px']
