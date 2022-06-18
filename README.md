@@ -1,0 +1,1 @@
+### Clone da página inicial do website do Starbucks utilizando tailwind css
